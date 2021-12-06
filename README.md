@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE09OSSM-SBD12-05-WAVSSA000-telemetered-wavss_a_dcl_mean_directional
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Mean Directional Data Products<br>
+Instrument Group Code: WAVSS<br>
